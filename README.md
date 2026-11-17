@@ -24,3 +24,7 @@ I like machine learning that is measured honestly and shipped like software: tes
 
 - Turning my course and side projects into tested, documented packages in English.
 - Practising data structures and algorithms in Python.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-qui%C3%B1ones-24b57a295/)
